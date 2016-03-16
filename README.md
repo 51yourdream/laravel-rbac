@@ -26,3 +26,7 @@
 - 执行 `php artisan db:seed`
 - 执行 `php artisan serve`
 - 默认后台账号:admin@admin.com 密码:admin
+=======
+# laravel-rbac
+基于yuansir/laravel5-rbac-example 修改
+
